@@ -1,0 +1,125 @@
+.main-div-heading {
+    width: 10em;
+    background-color: white;
+    color: rgb(0, 0, 0, 0.5);
+    margin: 10px;
+    margin-left: 60px;
+}
+
+.container-div {
+    background-color: white;
+    width: 220px;
+    height: 250px;
+    margin-top: 0.5px;
+    padding-top: 10px;
+    border-radius: 2%;
+    text-align: center;
+    padding-top: 30px;
+    border: 1.5px solid rgba(0, 0, 0, 0.2);
+}
+
+.img-div {
+    width: 200px;
+    height: 150px;
+}
+
+.ecom-img-style {
+    width: 150px;
+    height: auto;
+}
+
+#ecom-img-style-1 {
+    width: 110px;
+}
+
+#ecom-img-style {
+    width: 120px;
+    height: auto;
+}
+
+#ecom-img-style-1:hover {
+    width: 112px;
+    height: auto;
+}
+
+.ecom-img-style:hover {
+    width: 152px;
+    height: auto;
+}
+
+#ecom-img-style:hover {
+    width: 122px;
+    height: auto;
+}
+
+center .para-name {
+    padding-top: 15px;
+    background-color: white;
+    width: 150px;
+    color: rgb(0, 0, 0, 0.9);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#perform-div {
+    width: 69.7em;
+    height: 400px;
+    position: absolute;
+    top: 350px;
+    left: 350px;
+    border: 1.5px solid rgba(0, 0, 0, 0.2);
+    padding-top: 50px;
+    padding-left: 50px;
+    display: none;
+}
+
+#perform-div #img-size {
+    width: 380px;
+    height: 380px;
+}
+
+#perform-div #img-size img {
+    background-size: 50%;
+}
+
+.msg {
+    width: 725px;
+    height: 450;
+    position: absolute;
+    top: 00px;
+    left: 430px;
+    padding-top: 20px;
+    padding-left: 10px;
+    color: rgb(0, 0, 0, 0.8);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0, 0.8);
+}
+
+.star {
+    color: orange;
+    font-size: 1.3em;
+}
+
+#para-color {
+    color: white;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(198, 27, 9);
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+#rs {
+    font-size: 2em;
+}
+
+#per {
+    font-size: 15px;
+}
+
+.text-p {
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(0, 0, 0, 0.6);
+}
